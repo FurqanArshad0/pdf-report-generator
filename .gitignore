@@ -1,6 +1,4 @@
-venv/
-__pycache__/
-*.pyc
-.DS_Store
-report.db
+my-report.pdf
+*.pdf
 reports/
+report.db
